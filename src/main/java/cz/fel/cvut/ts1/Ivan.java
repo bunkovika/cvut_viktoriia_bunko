@@ -1,3 +1,4 @@
+package cz.fel.cvut.ts1;
 public class Ivan {
 
     public static void main(String[] args) {
