@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b3dfcc7-1767-49fc-8a93-3fbb0c420b03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EShopControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ItemStockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OrderTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PurchasesArchiveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StandardItemTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NPy7w1FhWA1jT90iQpvzASCcxB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/ČVUT/II semester/TS1/e-shop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ČVUT\II semester\TS1\e-shop\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EShopControllerTest.shoppingCartTestBuyingWithNoProductInStorage">
+    <configuration name="EShopControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="e-shop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EShopControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EShopControllerTest.shoppingCartTestBuyingOneItemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="e-shop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EShopControllerTest" />
+      <option name="METHOD_NAME" value="shoppingCartTestBuyingOneItemTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EShopControllerTest.shoppingCartTestBuyingWithNoProductInStorage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="e-shop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EShopControllerTest" />
+      <option name="METHOD_NAME" value="shoppingCartTestBuyingWithNoProductInStorage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemStockTest.testIncreaseItemCountWithInvalidArgument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="e-shop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ItemStockTest" />
+      <option name="METHOD_NAME" value="testIncreaseItemCountWithInvalidArgument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemStockTest.testSetCountWithInvalidArgument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="e-shop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ItemStockTest" />
+      <option name="METHOD_NAME" value="testSetCountWithInvalidArgument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EShopControllerTest.shoppingCartTestBuyingWithNoProductInStorage" />
+        <item itemvalue="JUnit.EShopControllerTest.shoppingCartTestBuyingOneItemTest" />
+        <item itemvalue="JUnit.EShopControllerTest" />
+        <item itemvalue="JUnit.ItemStockTest.testSetCountWithInvalidArgument" />
+        <item itemvalue="JUnit.ItemStockTest.testIncreaseItemCountWithInvalidArgument" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b3dfcc7-1767-49fc-8a93-3fbb0c420b03" name="Changes" comment="" />
+      <created>1679579850750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679579850750</updated>
+      <workItem from="1679579852113" duration="3376000" />
+      <workItem from="1679669117785" duration="26000" />
+      <workItem from="1680777469084" duration="1526000" />
+      <workItem from="1680781802007" duration="9000" />
+      <workItem from="1681502727191" duration="4941000" />
+      <workItem from="1681571694699" duration="684000" />
+      <workItem from="1681594161933" duration="1090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
